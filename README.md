@@ -1,4 +1,4 @@
-# [Olá, me chamo Sara Vitória]
+# Olá, me chamo Sara Vitória
 
  Estudante de Defesa Cibernética (2º Semestre) | Foco em Segurança da Informação
 
@@ -17,6 +17,8 @@ Sou estudante de cibersegurança construindo uma base técnica sólida. Utilizo 
 - **Prática Ativa:** Resolução de CTFs e configuração de laboratórios locais
 
 ## Repósitórios
+- **[port-scanner](https://github.com/ssaravitoria/port-scanner)**
+  Script básico em Python que explora o protocolo TCP/IP e valida conexões de rede locais.
 
 
 ## Contato e Links
