@@ -19,7 +19,7 @@ Sou estudante de cibersegurança construindo uma base técnica sólida. Utilizo 
 ## Repósitórios
 - **[port-scanner](https://github.com/ssaravitoria/port-scanner)**
   Script básico em Python que explora o protocolo TCP/IP e valida conexões de rede locais.
-  - **[BJJGerenciamento](https://github.com/ssaravitoria/BJJGerenciamento.git)**
+- **[BJJGerenciamento](https://github.com/ssaravitoria/BJJGerenciamento.git)**
   Sistema web responsivo para gestão de alunos e matrículas em academias de Jiu-Jitsu, desenvolvido com C#, ASP.NET e SQL Server.
   
 
