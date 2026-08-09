@@ -1,12 +1,10 @@
-# Olá, me chamo Sara Vitória
+# 👾 Sara Vitória 
 
  Estudante de Defesa Cibernética (2º Semestre) | Foco em Segurança da Informação
 
 ---
 
-## Sobre
-
-Estudante de cibersegurança com foco em construir uma base técnica sólida. Busco dominar os fundamentos de infraestrutura, redes e automação.
+Focada em entender o funcionamento dos sistemas e redes em baixo nível. Combino o estudo de infraestrutura com o desenvolvimento de automações para consolidar meus conhecimentos técnicos.
 
 ## Foco de estudo
 
@@ -14,6 +12,7 @@ Estudante de cibersegurança com foco em construir uma base técnica sólida. Bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)
 - **Fundamentos:** Redes de Computadores, Arquitetura de Sistemas
 - **Prática Ativa:** Resolução de CTFs e configuração de laboratórios locais
 
@@ -27,5 +26,5 @@ Estudante de cibersegurança com foco em construir uma base técnica sólida. Bu
 
 ## Contato e Links
 
-- **LinkedIn:** [linkedin.com/in/sara-vitória-souza-de-aguiar]
-- **E-mail:** [sara.aguiar.casa@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SARA%20VITÓRIA-0077B5?style=for-the-badge)](https://linkedin.com/in/sara-vitória-souza-de-aguiar)
+[![E-mail](https://img.shields.io/badge/EMAIL-SARA%20VITÓRIA-D14836?style=for-the-badge)](mailto:sara.aguiar.casa@gmail.com)
