@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Estudante de cibersegurança focada em construir uma base técnica sólida. Busco dominar os fundamentos de infraestrutura, redes e automação.
+Estudante de cibersegurança com foco em construir uma base técnica sólida. Busco dominar os fundamentos de infraestrutura, redes e automação.
 
 ## Foco de estudo
 
