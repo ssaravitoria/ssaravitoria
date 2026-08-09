@@ -6,13 +6,14 @@
 
 ## Sobre
 
-Sou estudante de cibersegurança construindo uma base técnica sólida. Utilizo o Debian como meu ambiente de trabalho principal para configurar e entender as ferramentas de segurança desde a base do sistema operativo. Meu objetivo atual é dominar os fundamentos de infraestrutura, redes e automação.
+Estudante de cibersegurança focada em construir uma base técnica sólida. Busco dominar os fundamentos de infraestrutura, redes e automação.
 
 ## Foco de estudo
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - **Fundamentos:** Redes de Computadores, Arquitetura de Sistemas
 - **Prática Ativa:** Resolução de CTFs e configuração de laboratórios locais
 
