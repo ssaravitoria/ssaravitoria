@@ -1,6 +1,6 @@
 # 👾 Sara Vitória 
 
- Estudante de CiberSecurity (2º Semestre)
+ Estudante de Cibersegurança (2º Semestre)
 ---
 
 Meu foco é entender o funcionamento dos sistemas e redes em baixo nível. Combino o estudo de infraestrutura com o desenvolvimento de automações para consolidar meus conhecimentos técnicos.
