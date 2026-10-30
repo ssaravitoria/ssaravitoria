@@ -14,8 +14,6 @@ Sou estudante de Cibersegurança, com formação técnica em Informática e expe
 ![CTF Wargames](https://img.shields.io/badge/CTF%20Wargames-8B0000?style=for-the-badge&logo=flag&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge&logo=openai&logoColor=white)
-![APIs](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 - **Fundamentos:** Redes de Computadores, Arquitetura de Sistemas
