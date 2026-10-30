@@ -3,7 +3,7 @@
  Estudante de Cibersegurança (2º Semestre)
 ---
 
-Meu foco é entender o funcionamento dos sistemas e redes em baixo nível. Combino o estudo de infraestrutura com o desenvolvimento de automações para consolidar meus conhecimentos técnicos.
+Sou estudante de Cibersegurança, com formação técnica em Informática e experiência em ambientes corporativos de tecnologia. Tenho interesse em desenvolver soluções que conectem Inteligência Artificial, automação e análise de dados para resolver problemas reais.
 
 ## Foco de estudo
 
@@ -12,13 +12,24 @@ Meu foco é entender o funcionamento dos sistemas e redes em baixo nível. Combi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CTF Wargames](https://img.shields.io/badge/CTF%20Wargames-8B0000?style=for-the-badge&logo=flag&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge&logo=openai&logoColor=white)
+![APIs](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 - **Fundamentos:** Redes de Computadores, Arquitetura de Sistemas
 - **Prática Ativa:** Resolução de CTFs e configuração de laboratórios locais
 
-## Repósitórios
-- **[Port-scanner](https://github.com/ssaravitoria/port-scanner)**
+## 🚀 Repositórios em destaque
+
+- **[ResolveAI — Agente Inteligente de Atendimento](https://github.com/ssaravitoria/ResolveAI)**  
+  Agente de Inteligência Artificial generativa desenvolvido com Bolt.new e assistência de IA. Utiliza uma central de conhecimento para fornecer respostas contextualizadas, explorando engenharia de prompts, integração com APIs e automação de atendimento.
+
+- **[Port-scanner](https://github.com/ssaravitoria/port-scanner)**  
   Script básico em Python que explora o protocolo TCP/IP e valida conexões de rede locais.
-- **[BJJGerenciamento](https://github.com/ssaravitoria/BJJGerenciamento.git)**
+
+- **[BJJGerenciamento](https://github.com/ssaravitoria/BJJGerenciamento)**  
   Sistema web responsivo para gestão de alunos e matrículas em academias de Jiu-Jitsu, desenvolvido com C#, ASP.NET e SQL Server.
   
 
