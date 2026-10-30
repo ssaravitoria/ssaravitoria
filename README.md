@@ -18,6 +18,10 @@ Sou estudante de Cibersegurança, com formação técnica em Informática e expe
 
 - **Fundamentos:** Redes de Computadores, Arquitetura de Sistemas
 - **Prática Ativa:** Resolução de CTFs e configuração de laboratórios locais
+- - **Inteligência Artificial:** IA generativa, agentes inteligentes e engenharia de prompts.
+- **Automação e integração:** APIs, automação de processos e desenvolvimento assistido por IA.
+- **Desenvolvimento:** Python, C#, SQL e criação de aplicações.
+- **Prática ativa:** Desenvolvimento de projetos com IA, experimentação de ferramentas e resolução de desafios técnicos.
 
 ## 🚀 Repositórios em destaque
 
